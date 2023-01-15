@@ -1,0 +1,7 @@
+Left mouse click  - open hidden cell
+Right mouse click - mark cell as cell that probably contain bomb
+To finish successfully this game you must find all hiden bombs.
+Find mean mark all cells that must contain bomb.
+If you open empty cell then you will see number. This number tell you how many bombs you can find around current cell.
+If you reach cell that contain bomb then game over.
+
